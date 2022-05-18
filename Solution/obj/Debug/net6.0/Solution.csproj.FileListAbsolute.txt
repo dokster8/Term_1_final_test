@@ -1,0 +1,15 @@
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\bin\Debug\net6.0\Solution.exe
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\bin\Debug\net6.0\Solution.deps.json
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\bin\Debug\net6.0\Solution.runtimeconfig.json
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\bin\Debug\net6.0\Solution.dll
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\bin\Debug\net6.0\ref\Solution.dll
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\bin\Debug\net6.0\Solution.pdb
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.dll
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\ref\Solution.dll
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.pdb
+C:\Users\dokster8\Desktop\C# Tasks\Term_1_final_test\Solution\obj\Debug\net6.0\Solution.genruntimeconfig.cache
